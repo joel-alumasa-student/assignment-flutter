@@ -1,9 +1,13 @@
 # Assignment1 Group 6
 
 ## Names:
+
 Joel Alumasa
+
 Daphin Tona
+
 Joel Maison
+
 Liliose Kamihigo
 
 
