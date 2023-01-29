@@ -1,4 +1,4 @@
-# assignment-flutter
+# Assignment1 Group 6
 
 ## Names:
 Joel Alumasa
